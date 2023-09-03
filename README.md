@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Çağatay Akkaş</h1>
 <h3 align="center">A passionate Web3 developer from Türkiye</h3>
 
-- 🔭 I’m currently working on **React**
+- 🔭 I’m currently working on **Smart Contract Auditing**
 
 - 💬 Ask me about **Blockchain**
 
