@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/0/1674153278110?e=1701302400&v=beta&t=dMEnW0zgTRFnWyBnHXLhiHffhfQ5WPgYPijlUP4vB0Q)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/0/1674153278110?e=1701302400&v=beta&t=dMEnW0zgTRFnWyBnHXLhiHffhfQ5WPgYPijlUP4vB0Q)
 <h1 align="center">Hi 👋, I'm Çağatay Akkaş</h1>
 <h3 align="center">A passionate Web3 developer from Türkiye</h3>
 
