@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/CagatayAkkas/CagatayAkkas/blob/main/img/Github%20Banner.jpg)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQG6T92gjjtBKg/profile-displaybackgroundimage-shrink_350_1400/0/1674153278110?e=1703116800&v=beta&t=cWEn1qEMwtWejAH0-ZSM8_dLUUhr0BKBAK4HuHuP9LA)
 <h1 align="center">Hi 👋, I'm Çağatay Akkaş</h1>
 <h3 align="center">A passionate Web3 developer from Türkiye</h3>
 
