@@ -59,12 +59,12 @@
   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Özet 2023](https://ytcards.demolab.com/?id=i84n991RpDE&title=%C3%96zet+2023&lang=en&timestamp=1703784576&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Özet 2023")](https://www.youtube.com/watch?v=i84n991RpDE)
 [![VR Öldü Mü?](https://ytcards.demolab.com/?id=O-Oeb9VZUsg&title=VR+%C3%96ld%C3%BC+M%C3%BC%3F&lang=en&timestamp=1703093904&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "VR Öldü Mü?")](https://www.youtube.com/watch?v=O-Oeb9VZUsg)
 [![Yapay Zeka Yarışları: Gemini vs Grok](https://ytcards.demolab.com/?id=AighfDLPc0A&title=Yapay+Zeka+Yar%C4%B1%C5%9Flar%C4%B1%3A+Gemini+vs+Grok&lang=en&timestamp=1702567804&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Yapay Zeka Yarışları: Gemini vs Grok")](https://www.youtube.com/watch?v=AighfDLPc0A)
 [![İnsan Telefona Karşı](https://ytcards.demolab.com/?id=zn-8Hb8PBMk&title=%C4%B0nsan+Telefona+Kar%C5%9F%C4%B1&lang=en&timestamp=1701875703&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "İnsan Telefona Karşı")](https://www.youtube.com/watch?v=zn-8Hb8PBMk)
 [![Tarayıcı Savaşları ve OpenAI Olayları](https://ytcards.demolab.com/?id=a2fZ9s8PLVU&title=Taray%C4%B1c%C4%B1+Sava%C5%9Flar%C4%B1+ve+OpenAI+Olaylar%C4%B1&lang=en&timestamp=1701270900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Tarayıcı Savaşları ve OpenAI Olayları")](https://www.youtube.com/watch?v=a2fZ9s8PLVU)
 [![GitHub Profili Özelleştirme - İstatistikler ve Etkinlik Grafiği Hilesi](https://ytcards.demolab.com/?id=QuhxijeB_GA&title=GitHub+Profili+%C3%96zelle%C5%9Ftirme+-+%C4%B0statistikler+ve+Etkinlik+Grafi%C4%9Fi+Hilesi&lang=en&timestamp=1697820300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "GitHub Profili Özelleştirme - İstatistikler ve Etkinlik Grafiği Hilesi")](https://www.youtube.com/watch?v=QuhxijeB_GA)
-[![DevCom.web.tr](https://ytcards.demolab.com/?id=FdOr3yz6vKE&title=DevCom.web.tr&lang=en&timestamp=1690383611&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DevCom.web.tr")](https://www.youtube.com/watch?v=FdOr3yz6vKE)
 <!-- END YOUTUBE-CARDS -->
 
 
