@@ -59,12 +59,12 @@
   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Başarının Yolu.exe](https://ytcards.demolab.com/?id=2sRWIjCla0I&title=Ba%C5%9Far%C4%B1n%C4%B1n+Yolu.exe&lang=en&timestamp=1705082401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Başarının Yolu.exe")](https://www.youtube.com/watch?v=2sRWIjCla0I)
 [![Meslekler v2024](https://ytcards.demolab.com/?id=F2vxeMU7Yg8&title=Meslekler+v2024&lang=en&timestamp=1704392730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Meslekler v2024")](https://www.youtube.com/watch?v=F2vxeMU7Yg8)
 [![Özet 2023](https://ytcards.demolab.com/?id=i84n991RpDE&title=%C3%96zet+2023&lang=en&timestamp=1703784576&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Özet 2023")](https://www.youtube.com/watch?v=i84n991RpDE)
 [![VR Öldü Mü?](https://ytcards.demolab.com/?id=O-Oeb9VZUsg&title=VR+%C3%96ld%C3%BC+M%C3%BC%3F&lang=en&timestamp=1703093904&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "VR Öldü Mü?")](https://www.youtube.com/watch?v=O-Oeb9VZUsg)
 [![Yapay Zeka Yarışları: Gemini vs Grok](https://ytcards.demolab.com/?id=AighfDLPc0A&title=Yapay+Zeka+Yar%C4%B1%C5%9Flar%C4%B1%3A+Gemini+vs+Grok&lang=en&timestamp=1702567804&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Yapay Zeka Yarışları: Gemini vs Grok")](https://www.youtube.com/watch?v=AighfDLPc0A)
 [![İnsan Telefona Karşı](https://ytcards.demolab.com/?id=zn-8Hb8PBMk&title=%C4%B0nsan+Telefona+Kar%C5%9F%C4%B1&lang=en&timestamp=1701875703&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "İnsan Telefona Karşı")](https://www.youtube.com/watch?v=zn-8Hb8PBMk)
-[![Tarayıcı Savaşları ve OpenAI Olayları](https://ytcards.demolab.com/?id=a2fZ9s8PLVU&title=Taray%C4%B1c%C4%B1+Sava%C5%9Flar%C4%B1+ve+OpenAI+Olaylar%C4%B1&lang=en&timestamp=1701270900&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Tarayıcı Savaşları ve OpenAI Olayları")](https://www.youtube.com/watch?v=a2fZ9s8PLVU)
 <!-- END YOUTUBE-CARDS -->
 
 
