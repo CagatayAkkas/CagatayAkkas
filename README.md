@@ -59,12 +59,7 @@
   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Sporlar v2024](https://ytcards.demolab.com/?id=S9AtV1odji8&title=Sporlar+v2024&lang=en&timestamp=1709917220&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sporlar v2024")](https://www.youtube.com/watch?v=S9AtV1odji8)
-[![Yemekler ve Hayatlar](https://ytcards.demolab.com/?id=nTJEHmjnHtE&title=Yemekler+ve+Hayatlar&lang=en&timestamp=1706296408&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Yemekler ve Hayatlar")](https://www.youtube.com/watch?v=nTJEHmjnHtE)
-[![Başarının Yolu.exe](https://ytcards.demolab.com/?id=2sRWIjCla0I&title=Ba%C5%9Far%C4%B1n%C4%B1n+Yolu.exe&lang=en&timestamp=1705082401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Başarının Yolu.exe")](https://www.youtube.com/watch?v=2sRWIjCla0I)
-[![Meslekler v2024](https://ytcards.demolab.com/?id=F2vxeMU7Yg8&title=Meslekler+v2024&lang=en&timestamp=1704392730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Meslekler v2024")](https://www.youtube.com/watch?v=F2vxeMU7Yg8)
-[![Özet 2023](https://ytcards.demolab.com/?id=i84n991RpDE&title=%C3%96zet+2023&lang=en&timestamp=1703784576&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Özet 2023")](https://www.youtube.com/watch?v=i84n991RpDE)
-[![VR Öldü Mü?](https://ytcards.demolab.com/?id=O-Oeb9VZUsg&title=VR+%C3%96ld%C3%BC+M%C3%BC%3F&lang=en&timestamp=1703093904&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "VR Öldü Mü?")](https://www.youtube.com/watch?v=O-Oeb9VZUsg)
+
 <!-- END YOUTUBE-CARDS -->
 
 
