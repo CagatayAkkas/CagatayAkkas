@@ -59,12 +59,7 @@
   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Çiplenen İnsan, Apple'a Dava, NVIDIA'dan Atılım - Durum Raporu](https://ytcards.demolab.com/?id=4vCzoSExXzU&title=%C3%87iplenen+%C4%B0nsan%2C+Apple%27a+Dava%2C+NVIDIA%27dan+At%C4%B1l%C4%B1m+-+Durum+Raporu&lang=en&timestamp=1712423700&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Çiplenen İnsan, Apple'a Dava, NVIDIA'dan Atılım - Durum Raporu")](https://www.youtube.com/watch?v=4vCzoSExXzU)
-[![Bedelli Askerlik ve Acemi Birliği - 2024](https://ytcards.demolab.com/?id=-oXgHsywLJo&title=Bedelli+Askerlik+ve+Acemi+Birli%C4%9Fi+-+2024&lang=en&timestamp=1711646100&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Bedelli Askerlik ve Acemi Birliği - 2024")](https://www.youtube.com/watch?v=-oXgHsywLJo)
-[![Sporlar v2024](https://ytcards.demolab.com/?id=S9AtV1odji8&title=Sporlar+v2024&lang=en&timestamp=1709917220&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sporlar v2024")](https://www.youtube.com/watch?v=S9AtV1odji8)
-[![Yemekler ve Hayatlar](https://ytcards.demolab.com/?id=nTJEHmjnHtE&title=Yemekler+ve+Hayatlar&lang=en&timestamp=1706296408&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Yemekler ve Hayatlar")](https://www.youtube.com/watch?v=nTJEHmjnHtE)
-[![Başarının Yolu.exe](https://ytcards.demolab.com/?id=2sRWIjCla0I&title=Ba%C5%9Far%C4%B1n%C4%B1n+Yolu.exe&lang=en&timestamp=1705082401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Başarının Yolu.exe")](https://www.youtube.com/watch?v=2sRWIjCla0I)
-[![Meslekler v2024](https://ytcards.demolab.com/?id=F2vxeMU7Yg8&title=Meslekler+v2024&lang=en&timestamp=1704392730&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Meslekler v2024")](https://www.youtube.com/watch?v=F2vxeMU7Yg8)
+
 <!-- END YOUTUBE-CARDS -->
 
 
