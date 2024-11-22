@@ -59,12 +59,12 @@
   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Yapay Zeka İnsanın Yerini Alır mı?](https://ytcards.demolab.com/?id=XN3EX4V1LjU&title=Yapay+Zeka+%C4%B0nsan%C4%B1n+Yerini+Al%C4%B1r+m%C4%B1%3F&lang=en&timestamp=1732293461&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Yapay Zeka İnsanın Yerini Alır mı?")](https://www.youtube.com/watch?v=XN3EX4V1LjU)
 [![Yapay Zekalar ve Yapabildikleri!](https://ytcards.demolab.com/?id=BXXAMrARZQA&title=Yapay+Zekalar+ve+Yapabildikleri%21&lang=en&timestamp=1732204808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Yapay Zekalar ve Yapabildikleri!")](https://www.youtube.com/watch?v=BXXAMrARZQA)
 [![İlginç Bir Gemini Kullanımı :3](https://ytcards.demolab.com/?id=Xz3Z5THlRyA&title=%C4%B0lgin%C3%A7+Bir+Gemini+Kullan%C4%B1m%C4%B1+%3A3&lang=en&timestamp=1732121378&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "İlginç Bir Gemini Kullanımı :3")](https://www.youtube.com/watch?v=Xz3Z5THlRyA)
 [![ChatGPT'nin Yeni Özellikleri!](https://ytcards.demolab.com/?id=0HI062ugNfE&title=ChatGPT%27nin+Yeni+%C3%96zellikleri%21&lang=en&timestamp=1732032002&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ChatGPT'nin Yeni Özellikleri!")](https://www.youtube.com/watch?v=0HI062ugNfE)
 [![Mac'de Tek Tıkla Tüm Ayarlar!](https://ytcards.demolab.com/?id=ruV7ysFa59M&title=Mac%27de+Tek+T%C4%B1kla+T%C3%BCm+Ayarlar%21&lang=en&timestamp=1731859245&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mac'de Tek Tıkla Tüm Ayarlar!")](https://www.youtube.com/watch?v=ruV7ysFa59M)
 [![Mac'de Gerçek Sağ Tık Deneyimi!](https://ytcards.demolab.com/?id=7Edk0RPnxw4&title=Mac%27de+Ger%C3%A7ek+Sa%C4%9F+T%C4%B1k+Deneyimi%21&lang=en&timestamp=1731782592&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mac'de Gerçek Sağ Tık Deneyimi!")](https://www.youtube.com/watch?v=7Edk0RPnxw4)
-[![Yapay Zekada Bugün ve Yarın - DevCom Podcast, Mehmet Hilmi Emel](https://ytcards.demolab.com/?id=YJHO47rp6rg&title=Yapay+Zekada+Bug%C3%BCn+ve+Yar%C4%B1n+-+DevCom+Podcast%2C+Mehmet+Hilmi+Emel&lang=en&timestamp=1731735901&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Yapay Zekada Bugün ve Yarın - DevCom Podcast, Mehmet Hilmi Emel")](https://www.youtube.com/watch?v=YJHO47rp6rg)
 <!-- END YOUTUBE-CARDS -->
 
 
