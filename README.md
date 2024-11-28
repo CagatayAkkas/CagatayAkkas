@@ -59,12 +59,12 @@
   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Mac'de Ekranı Kapayıp Monitör Kullanabilme!](https://ytcards.demolab.com/?id=kY_tqoEN1X0&title=Mac%27de+Ekran%C4%B1+Kapay%C4%B1p+Monit%C3%B6r+Kullanabilme%21&lang=en&timestamp=1732813250&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mac'de Ekranı Kapayıp Monitör Kullanabilme!")](https://www.youtube.com/watch?v=kY_tqoEN1X0)
 [![Mac'de Windows Gibi Pencere Yönetimi!](https://ytcards.demolab.com/?id=Lzpa-KJtbkQ&title=Mac%27de+Windows+Gibi+Pencere+Y%C3%B6netimi%21&lang=en&timestamp=1732723229&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mac'de Windows Gibi Pencere Yönetimi!")](https://www.youtube.com/watch?v=Lzpa-KJtbkQ)
 [![Mac'de Gerçek Fare Deneyimi!](https://ytcards.demolab.com/?id=K3BdXfig6ho&title=Mac%27de+Ger%C3%A7ek+Fare+Deneyimi%21&lang=en&timestamp=1732636824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mac'de Gerçek Fare Deneyimi!")](https://www.youtube.com/watch?v=K3BdXfig6ho)
 [![Yapay Zeka Sorumluluk Alabilir mi?](https://ytcards.demolab.com/?id=Z6Pbor_M0a8&title=Yapay+Zeka+Sorumluluk+Alabilir+mi%3F&lang=en&timestamp=1732464033&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Yapay Zeka Sorumluluk Alabilir mi?")](https://www.youtube.com/watch?v=Z6Pbor_M0a8)
 [![Gerekeni Yapıp Pişman Olmamak!](https://ytcards.demolab.com/?id=x1TZCthdqYA&title=Gerekeni+Yap%C4%B1p+Pi%C5%9Fman+Olmamak%21&lang=en&timestamp=1732377652&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Gerekeni Yapıp Pişman Olmamak!")](https://www.youtube.com/watch?v=x1TZCthdqYA)
 [![Yapay Zeka İnsanın Yerini Alır mı?](https://ytcards.demolab.com/?id=XN3EX4V1LjU&title=Yapay+Zeka+%C4%B0nsan%C4%B1n+Yerini+Al%C4%B1r+m%C4%B1%3F&lang=en&timestamp=1732293461&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Yapay Zeka İnsanın Yerini Alır mı?")](https://www.youtube.com/watch?v=XN3EX4V1LjU)
-[![Yapay Zekalar ve Yapabildikleri!](https://ytcards.demolab.com/?id=BXXAMrARZQA&title=Yapay+Zekalar+ve+Yapabildikleri%21&lang=en&timestamp=1732204808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Yapay Zekalar ve Yapabildikleri!")](https://www.youtube.com/watch?v=BXXAMrARZQA)
 <!-- END YOUTUBE-CARDS -->
 
 
