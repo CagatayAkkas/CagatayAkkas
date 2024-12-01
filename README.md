@@ -59,12 +59,12 @@
   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Zaman ve Yönetimi!](https://ytcards.demolab.com/?id=HxS7qO2klmY&title=Zaman+ve+Y%C3%B6netimi%21&lang=en&timestamp=1733068824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Zaman ve Yönetimi!")](https://www.youtube.com/watch?v=HxS7qO2klmY)
 [![Mac'de Tek Tıkla Tüm Kilit Donanımlar!](https://ytcards.demolab.com/?id=Hl9cf_ZQ2C4&title=Mac%27de+Tek+T%C4%B1kla+T%C3%BCm+Kilit+Donan%C4%B1mlar%21&lang=en&timestamp=1732896013&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mac'de Tek Tıkla Tüm Kilit Donanımlar!")](https://www.youtube.com/watch?v=Hl9cf_ZQ2C4)
 [![Mac'de Ekranı Kapayıp Monitör Kullanabilme!](https://ytcards.demolab.com/?id=kY_tqoEN1X0&title=Mac%27de+Ekran%C4%B1+Kapay%C4%B1p+Monit%C3%B6r+Kullanabilme%21&lang=en&timestamp=1732813250&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mac'de Ekranı Kapayıp Monitör Kullanabilme!")](https://www.youtube.com/watch?v=kY_tqoEN1X0)
 [![Mac'de Windows Gibi Pencere Yönetimi!](https://ytcards.demolab.com/?id=Lzpa-KJtbkQ&title=Mac%27de+Windows+Gibi+Pencere+Y%C3%B6netimi%21&lang=en&timestamp=1732723229&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mac'de Windows Gibi Pencere Yönetimi!")](https://www.youtube.com/watch?v=Lzpa-KJtbkQ)
 [![Mac'de Gerçek Fare Deneyimi!](https://ytcards.demolab.com/?id=K3BdXfig6ho&title=Mac%27de+Ger%C3%A7ek+Fare+Deneyimi%21&lang=en&timestamp=1732636824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mac'de Gerçek Fare Deneyimi!")](https://www.youtube.com/watch?v=K3BdXfig6ho)
 [![Yapay Zeka Sorumluluk Alabilir mi?](https://ytcards.demolab.com/?id=Z6Pbor_M0a8&title=Yapay+Zeka+Sorumluluk+Alabilir+mi%3F&lang=en&timestamp=1732464033&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Yapay Zeka Sorumluluk Alabilir mi?")](https://www.youtube.com/watch?v=Z6Pbor_M0a8)
-[![Gerekeni Yapıp Pişman Olmamak!](https://ytcards.demolab.com/?id=x1TZCthdqYA&title=Gerekeni+Yap%C4%B1p+Pi%C5%9Fman+Olmamak%21&lang=en&timestamp=1732377652&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Gerekeni Yapıp Pişman Olmamak!")](https://www.youtube.com/watch?v=x1TZCthdqYA)
 <!-- END YOUTUBE-CARDS -->
 
 
