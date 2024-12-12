@@ -59,12 +59,12 @@
   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Bırakmayı Bilmek ve Burnout!](https://ytcards.demolab.com/?id=1NhbFMKoYEM&title=B%C4%B1rakmay%C4%B1+Bilmek+ve+Burnout%21&lang=en&timestamp=1734019201&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Bırakmayı Bilmek ve Burnout!")](https://www.youtube.com/watch?v=1NhbFMKoYEM)
 [![Mola Verme Taktikleri!](https://ytcards.demolab.com/?id=6q-IUAY8PBc&title=Mola+Verme+Taktikleri%21&lang=en&timestamp=1733932808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Mola Verme Taktikleri!")](https://www.youtube.com/watch?v=6q-IUAY8PBc)
 [![Çalışırken Sıkılmak!](https://ytcards.demolab.com/?id=ENLJ2d91fDk&title=%C3%87al%C4%B1%C5%9F%C4%B1rken+S%C4%B1k%C4%B1lmak%21&lang=en&timestamp=1733848206&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Çalışırken Sıkılmak!")](https://www.youtube.com/watch?v=ENLJ2d91fDk)
 [![Pomodoro Tekniği Faydalı mı?](https://ytcards.demolab.com/?id=LaT4jHKaj4A&title=Pomodoro+Tekni%C4%9Fi+Faydal%C4%B1+m%C4%B1%3F&lang=en&timestamp=1733760017&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Pomodoro Tekniği Faydalı mı?")](https://www.youtube.com/watch?v=LaT4jHKaj4A)
 [![Görselleştirme Çok Önemlidir!](https://ytcards.demolab.com/?id=EFEhIz1BGLs&title=G%C3%B6rselle%C5%9Ftirme+%C3%87ok+%C3%96nemlidir%21&lang=en&timestamp=1733673611&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Görselleştirme Çok Önemlidir!")](https://www.youtube.com/watch?v=EFEhIz1BGLs)
 [![Çalışırken: Süre mi, Yüzde mi?](https://ytcards.demolab.com/?id=QYN5aEH-7zo&title=%C3%87al%C4%B1%C5%9F%C4%B1rken%3A+S%C3%BCre+mi%2C+Y%C3%BCzde+mi%3F&lang=en&timestamp=1733587228&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Çalışırken: Süre mi, Yüzde mi?")](https://www.youtube.com/watch?v=QYN5aEH-7zo)
-[![Çalışmak İçin Nasıl Fedakârlık Yapılır?](https://ytcards.demolab.com/?id=aTvdRA6KwYw&title=%C3%87al%C4%B1%C5%9Fmak+%C4%B0%C3%A7in+Nas%C4%B1l+Fedak%C3%A2rl%C4%B1k+Yap%C4%B1l%C4%B1r%3F&lang=en&timestamp=1733500801&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Çalışmak İçin Nasıl Fedakârlık Yapılır?")](https://www.youtube.com/watch?v=aTvdRA6KwYw)
 <!-- END YOUTUBE-CARDS -->
 
 
