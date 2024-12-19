@@ -59,12 +59,12 @@
   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Ustaya Gerek Var mı?](https://ytcards.demolab.com/?id=tQecSeTqEk4&title=Ustaya+Gerek+Var+m%C4%B1%3F&lang=en&timestamp=1734624046&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ustaya Gerek Var mı?")](https://www.youtube.com/watch?v=tQecSeTqEk4)
 [![Zirveye Ulaşmak!](https://ytcards.demolab.com/?id=sAiu6dwdDX8&title=Zirveye+Ula%C5%9Fmak%21&lang=en&timestamp=1734537649&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Zirveye Ulaşmak!")](https://www.youtube.com/watch?v=sAiu6dwdDX8)
 [![Özgüven ve Kibir!](https://ytcards.demolab.com/?id=ee9VGODHBGY&title=%C3%96zg%C3%BCven+ve+Kibir%21&lang=en&timestamp=1734451238&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Özgüven ve Kibir!")](https://www.youtube.com/watch?v=ee9VGODHBGY)
 [![Ego ve Empati!](https://ytcards.demolab.com/?id=YGBbmEC8peQ&title=Ego+ve+Empati%21&lang=en&timestamp=1734364833&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ego ve Empati!")](https://www.youtube.com/watch?v=YGBbmEC8peQ)
 [![Gücü İnkarın Bedeli!](https://ytcards.demolab.com/?id=CHN9jejyq40&title=G%C3%BCc%C3%BC+%C4%B0nkar%C4%B1n+Bedeli%21&lang=en&timestamp=1734279300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Gücü İnkarın Bedeli!")](https://www.youtube.com/watch?v=CHN9jejyq40)
 [![Günlük Hayatta Gücün Kuralları!](https://ytcards.demolab.com/?id=KbNUyY2tziU&title=G%C3%BCnl%C3%BCk+Hayatta+G%C3%BCc%C3%BCn+Kurallar%C4%B1%21&lang=en&timestamp=1734198300&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Günlük Hayatta Gücün Kuralları!")](https://www.youtube.com/watch?v=KbNUyY2tziU)
-[![Gücü Alma ve Karşıyı Yıkma Sanatı! (Gayet Etik) - İktidar: Güç Sahibi Olmanın 48 Yasası](https://ytcards.demolab.com/?id=5eHgfsRtAMY&title=G%C3%BCc%C3%BC+Alma+ve+Kar%C5%9F%C4%B1y%C4%B1+Y%C4%B1kma+Sanat%C4%B1%21+%28Gayet+Etik%29+-+%C4%B0ktidar%3A+G%C3%BC%C3%A7+Sahibi+Olman%C4%B1n+48+Yasas%C4%B1&lang=en&timestamp=1734197718&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Gücü Alma ve Karşıyı Yıkma Sanatı! (Gayet Etik) - İktidar: Güç Sahibi Olmanın 48 Yasası")](https://www.youtube.com/watch?v=5eHgfsRtAMY)
 <!-- END YOUTUBE-CARDS -->
 
 
