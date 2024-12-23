@@ -59,12 +59,12 @@
   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Düşman İyidir!](https://ytcards.demolab.com/?id=LtAkab7RqyE&title=D%C3%BC%C5%9Fman+%C4%B0yidir%21&lang=en&timestamp=1734969619&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Düşman İyidir!")](https://www.youtube.com/watch?v=LtAkab7RqyE)
 [![Dost Kimdir? Arkadaş Kimdir?](https://ytcards.demolab.com/?id=1tPJh8DnGDU&title=Dost+Kimdir%3F+Arkada%C5%9F+Kimdir%3F&lang=en&timestamp=1734883202&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dost Kimdir? Arkadaş Kimdir?")](https://www.youtube.com/watch?v=1tPJh8DnGDU)
 [![Düşmanı Kullanma ve Konuşma Sanatı!](https://ytcards.demolab.com/?id=KQLCGJvCt38&title=D%C3%BC%C5%9Fman%C4%B1+Kullanma+ve+Konu%C5%9Fma+Sanat%C4%B1%21&lang=en&timestamp=1734799500&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Düşmanı Kullanma ve Konuşma Sanatı!")](https://www.youtube.com/watch?v=KQLCGJvCt38)
 [![Düşmanı Kullanma ve Konuşma Sanatı! (Gayet Etik) - İktidar: Güç Sahibi Olmanın 48 Yasası](https://ytcards.demolab.com/?id=4KyR9uxvy8A&title=D%C3%BC%C5%9Fman%C4%B1+Kullanma+ve+Konu%C5%9Fma+Sanat%C4%B1%21+%28Gayet+Etik%29+-+%C4%B0ktidar%3A+G%C3%BC%C3%A7+Sahibi+Olman%C4%B1n+48+Yasas%C4%B1&lang=en&timestamp=1734798601&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Düşmanı Kullanma ve Konuşma Sanatı! (Gayet Etik) - İktidar: Güç Sahibi Olmanın 48 Yasası")](https://www.youtube.com/watch?v=4KyR9uxvy8A)
 [![Vazgeçilmez Olmak!](https://ytcards.demolab.com/?id=jcvuBoccZLs&title=Vazge%C3%A7ilmez+Olmak%21&lang=en&timestamp=1734710449&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Vazgeçilmez Olmak!")](https://www.youtube.com/watch?v=jcvuBoccZLs)
 [![Ustaya Gerek Var mı?](https://ytcards.demolab.com/?id=tQecSeTqEk4&title=Ustaya+Gerek+Var+m%C4%B1%3F&lang=en&timestamp=1734624046&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ustaya Gerek Var mı?")](https://www.youtube.com/watch?v=tQecSeTqEk4)
-[![Zirveye Ulaşmak!](https://ytcards.demolab.com/?id=sAiu6dwdDX8&title=Zirveye+Ula%C5%9Fmak%21&lang=en&timestamp=1734537649&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Zirveye Ulaşmak!")](https://www.youtube.com/watch?v=sAiu6dwdDX8)
 <!-- END YOUTUBE-CARDS -->
 
 
