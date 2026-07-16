@@ -59,12 +59,7 @@
   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Üniversitede Yazılım Öğrenmek?](https://ytcards.demolab.com/?id=Ohk7iz4811A&title=%C3%9Cniversitede+Yaz%C4%B1l%C4%B1m+%C3%96%C4%9Frenmek%3F&lang=en&timestamp=1784127614&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Üniversitede Yazılım Öğrenmek?")](https://www.youtube.com/shorts/Ohk7iz4811A)
-[![Üniversiteler Neden Yetersiz?](https://ytcards.demolab.com/?id=agNG82CPU5g&title=%C3%9Cniversiteler+Neden+Yetersiz%3F&lang=en&timestamp=1784041233&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Üniversiteler Neden Yetersiz?")](https://www.youtube.com/shorts/agNG82CPU5g)
-[![Yeni Mühendislik Tanımı!](https://ytcards.demolab.com/?id=s4ZGWFo-KC8&title=Yeni+M%C3%BChendislik+Tan%C4%B1m%C4%B1%21&lang=en&timestamp=1783954812&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Yeni Mühendislik Tanımı!")](https://www.youtube.com/shorts/s4ZGWFo-KC8)
-[![Eskiyen Mühendislik Tanımı!](https://ytcards.demolab.com/?id=qJ2NdvRB3uU&title=Eskiyen+M%C3%BChendislik+Tan%C4%B1m%C4%B1%21&lang=en&timestamp=1783868411&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Eskiyen Mühendislik Tanımı!")](https://www.youtube.com/shorts/qJ2NdvRB3uU)
-[![2026'da Bilgisayar/Yazılım Mühendisliği Okunur mu? | Maaş, Diploma, Sektör ve Konuşulmayan Gerçekler](https://ytcards.demolab.com/?id=CV_ZAO1BCkM&title=2026%27da+Bilgisayar%2FYaz%C4%B1l%C4%B1m+M%C3%BChendisli%C4%9Fi+Okunur+mu%3F+%7C+Maa%C5%9F%2C+Diploma%2C+Sekt%C3%B6r+ve+Konu%C5%9Fulmayan+Ger%C3%A7ekler&lang=en&timestamp=1783178128&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "2026'da Bilgisayar/Yazılım Mühendisliği Okunur mu? | Maaş, Diploma, Sektör ve Konuşulmayan Gerçekler")](https://www.youtube.com/watch?v=CV_ZAO1BCkM)
-[![Veterinerlik Okunur mu? (2026) | Sektörün Gerçekleri Neler? - Melih Burak Kibar](https://ytcards.demolab.com/?id=fuYQC1nfZm0&title=Veterinerlik+Okunur+mu%3F+%282026%29+%7C+Sekt%C3%B6r%C3%BCn+Ger%C3%A7ekleri+Neler%3F+-+Melih+Burak+Kibar&lang=en&timestamp=1782631815&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Veterinerlik Okunur mu? (2026) | Sektörün Gerçekleri Neler? - Melih Burak Kibar")](https://www.youtube.com/watch?v=fuYQC1nfZm0)
+
 <!-- END YOUTUBE-CARDS -->
 
 
