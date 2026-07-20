@@ -59,12 +59,12 @@
   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Değer Üretmek Zorundasın!](https://ytcards.demolab.com/?id=ctsLGH_NivY&title=De%C4%9Fer+%C3%9Cretmek+Zorundas%C4%B1n%21&lang=en&timestamp=1784559604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Değer Üretmek Zorundasın!")](https://www.youtube.com/shorts/ctsLGH_NivY)
 [![Ucuz İnsan ve Yapay Zeka!](https://ytcards.demolab.com/?id=gjy_4myJacs&title=Ucuz+%C4%B0nsan+ve+Yapay+Zeka%21&lang=en&timestamp=1784473237&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ucuz İnsan ve Yapay Zeka!")](https://www.youtube.com/shorts/gjy_4myJacs)
 [![Yapay Zeka Seni Eleyecek!](https://ytcards.demolab.com/?id=NGDG4B5yG8g&title=Yapay+Zeka+Seni+Eleyecek%21&lang=en&timestamp=1784386808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Yapay Zeka Seni Eleyecek!")](https://www.youtube.com/shorts/NGDG4B5yG8g)
 [![Hiç Olmamak İçin Koş!](https://ytcards.demolab.com/?id=GURKMrFJ1yU&title=Hi%C3%A7+Olmamak+%C4%B0%C3%A7in+Ko%C5%9F%21&lang=en&timestamp=1784300401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hiç Olmamak İçin Koş!")](https://www.youtube.com/shorts/GURKMrFJ1yU)
 [![Yapay Zeka Çağında İngilizce Öğrenilir mi?](https://ytcards.demolab.com/?id=kOc1OfGAiD8&title=Yapay+Zeka+%C3%87a%C4%9F%C4%B1nda+%C4%B0ngilizce+%C3%96%C4%9Frenilir+mi%3F&lang=en&timestamp=1784214013&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Yapay Zeka Çağında İngilizce Öğrenilir mi?")](https://www.youtube.com/shorts/kOc1OfGAiD8)
 [![Yazılım Üniversitede Ögrenilmez!](https://ytcards.demolab.com/?id=Ohk7iz4811A&title=Yaz%C4%B1l%C4%B1m+%C3%9Cniversitede+%C3%96grenilmez%21&lang=en&timestamp=1784127614&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Yazılım Üniversitede Ögrenilmez!")](https://www.youtube.com/shorts/Ohk7iz4811A)
-[![Üniversiteler Neden Yetersiz?](https://ytcards.demolab.com/?id=agNG82CPU5g&title=%C3%9Cniversiteler+Neden+Yetersiz%3F&lang=en&timestamp=1784041233&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Üniversiteler Neden Yetersiz?")](https://www.youtube.com/shorts/agNG82CPU5g)
 <!-- END YOUTUBE-CARDS -->
 
 
