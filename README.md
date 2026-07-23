@@ -59,7 +59,12 @@
   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Kimsenin Umurunda Olmayan Mühendisler!](https://ytcards.demolab.com/?id=ZIbDXqjQC_M&title=Kimsenin+Umurunda+Olmayan+M%C3%BChendisler%21&lang=en&timestamp=1784732434&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Kimsenin Umurunda Olmayan Mühendisler!")](https://www.youtube.com/shorts/ZIbDXqjQC_M)
+[![İşsiz Kalanların Gerçeği!](https://ytcards.demolab.com/?id=Qb-m-zoBbMA&title=%C4%B0%C5%9Fsiz+Kalanlar%C4%B1n+Ger%C3%A7e%C4%9Fi%21&lang=en&timestamp=1784646007&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "İşsiz Kalanların Gerçeği!")](https://www.youtube.com/shorts/Qb-m-zoBbMA)
+[![Değer Üretmek Zorundasın!](https://ytcards.demolab.com/?id=ctsLGH_NivY&title=De%C4%9Fer+%C3%9Cretmek+Zorundas%C4%B1n%21&lang=en&timestamp=1784559604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Değer Üretmek Zorundasın!")](https://www.youtube.com/shorts/ctsLGH_NivY)
+[![Ucuz İnsan ve Yapay Zeka!](https://ytcards.demolab.com/?id=gjy_4myJacs&title=Ucuz+%C4%B0nsan+ve+Yapay+Zeka%21&lang=en&timestamp=1784473237&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ucuz İnsan ve Yapay Zeka!")](https://www.youtube.com/shorts/gjy_4myJacs)
+[![Yapay Zeka Seni Eleyecek!](https://ytcards.demolab.com/?id=NGDG4B5yG8g&title=Yapay+Zeka+Seni+Eleyecek%21&lang=en&timestamp=1784386808&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Yapay Zeka Seni Eleyecek!")](https://www.youtube.com/shorts/NGDG4B5yG8g)
+[![Hiç Olmamak İçin Koş!](https://ytcards.demolab.com/?id=GURKMrFJ1yU&title=Hi%C3%A7+Olmamak+%C4%B0%C3%A7in+Ko%C5%9F%21&lang=en&timestamp=1784300401&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hiç Olmamak İçin Koş!")](https://www.youtube.com/shorts/GURKMrFJ1yU)
 <!-- END YOUTUBE-CARDS -->
 
 
