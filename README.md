@@ -59,12 +59,12 @@
   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Senin Ömrün Kaç Kuruş?](https://ytcards.demolab.com/?id=gXQnwizaC-g&title=Senin+%C3%96mr%C3%BCn+Ka%C3%A7+Kuru%C5%9F%3F&lang=en&timestamp=1784991613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Senin Ömrün Kaç Kuruş?")](https://www.youtube.com/shorts/gXQnwizaC-g)
 [![Memur Olunur mu?](https://ytcards.demolab.com/?id=Ey4azEhD9B4&title=Memur+Olunur+mu%3F&lang=en&timestamp=1784905237&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Memur Olunur mu?")](https://www.youtube.com/shorts/Ey4azEhD9B4)
 [![Sonsuza Kadar Çalışacaksın!](https://ytcards.demolab.com/?id=VYNdHKYkADg&title=Sonsuza+Kadar+%C3%87al%C4%B1%C5%9Facaks%C4%B1n%21&lang=en&timestamp=1784818837&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sonsuza Kadar Çalışacaksın!")](https://www.youtube.com/shorts/VYNdHKYkADg)
 [![Kimsenin Umurunda Olmayan Mühendisler!](https://ytcards.demolab.com/?id=ZIbDXqjQC_M&title=Kimsenin+Umurunda+Olmayan+M%C3%BChendisler%21&lang=en&timestamp=1784732434&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Kimsenin Umurunda Olmayan Mühendisler!")](https://www.youtube.com/shorts/ZIbDXqjQC_M)
 [![İşsiz Kalanların Gerçeği!](https://ytcards.demolab.com/?id=Qb-m-zoBbMA&title=%C4%B0%C5%9Fsiz+Kalanlar%C4%B1n+Ger%C3%A7e%C4%9Fi%21&lang=en&timestamp=1784646007&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "İşsiz Kalanların Gerçeği!")](https://www.youtube.com/shorts/Qb-m-zoBbMA)
 [![Değer Üretmek Zorundasın!](https://ytcards.demolab.com/?id=ctsLGH_NivY&title=De%C4%9Fer+%C3%9Cretmek+Zorundas%C4%B1n%21&lang=en&timestamp=1784559604&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Değer Üretmek Zorundasın!")](https://www.youtube.com/shorts/ctsLGH_NivY)
-[![Ucuz İnsan ve Yapay Zeka!](https://ytcards.demolab.com/?id=gjy_4myJacs&title=Ucuz+%C4%B0nsan+ve+Yapay+Zeka%21&lang=en&timestamp=1784473237&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Ucuz İnsan ve Yapay Zeka!")](https://www.youtube.com/shorts/gjy_4myJacs)
 <!-- END YOUTUBE-CARDS -->
 
 
