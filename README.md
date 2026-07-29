@@ -59,12 +59,7 @@
   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Rekabet Arşa Çıkacak!](https://ytcards.demolab.com/?id=WpoRWbWLyJU&title=Rekabet+Ar%C5%9Fa+%C3%87%C4%B1kacak%21&lang=en&timestamp=1785250836&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rekabet Arşa Çıkacak!")](https://www.youtube.com/shorts/WpoRWbWLyJU)
-[![Diplomanın Önemi Kaldı Mı?](https://ytcards.demolab.com/?id=ht54W6AFtAI&title=Diploman%C4%B1n+%C3%96nemi+Kald%C4%B1+M%C4%B1%3F&lang=en&timestamp=1785164400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Diplomanın Önemi Kaldı Mı?")](https://www.youtube.com/shorts/ht54W6AFtAI)
-[![Sistem Seni Tüketiyor!](https://ytcards.demolab.com/?id=S0beBuIbMt4&title=Sistem+Seni+T%C3%BCketiyor%21&lang=en&timestamp=1785078026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sistem Seni Tüketiyor!")](https://www.youtube.com/shorts/S0beBuIbMt4)
-[![Senin Ömrün Kaç Kuruş?](https://ytcards.demolab.com/?id=gXQnwizaC-g&title=Senin+%C3%96mr%C3%BCn+Ka%C3%A7+Kuru%C5%9F%3F&lang=en&timestamp=1784991613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Senin Ömrün Kaç Kuruş?")](https://www.youtube.com/shorts/gXQnwizaC-g)
-[![Memur Olunur mu?](https://ytcards.demolab.com/?id=Ey4azEhD9B4&title=Memur+Olunur+mu%3F&lang=en&timestamp=1784905237&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Memur Olunur mu?")](https://www.youtube.com/shorts/Ey4azEhD9B4)
-[![Sonsuza Kadar Çalışacaksın!](https://ytcards.demolab.com/?id=VYNdHKYkADg&title=Sonsuza+Kadar+%C3%87al%C4%B1%C5%9Facaks%C4%B1n%21&lang=en&timestamp=1784818837&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sonsuza Kadar Çalışacaksın!")](https://www.youtube.com/shorts/VYNdHKYkADg)
+
 <!-- END YOUTUBE-CARDS -->
 
 
