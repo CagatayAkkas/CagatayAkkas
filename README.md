@@ -59,7 +59,12 @@
   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Hayatın Yaşadığına Değsin!](https://ytcards.demolab.com/?id=1KM9b60LV1Y&title=Hayat%C4%B1n+Ya%C5%9Fad%C4%B1%C4%9F%C4%B1na+De%C4%9Fsin%21&lang=en&timestamp=1785337226&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hayatın Yaşadığına Değsin!")](https://www.youtube.com/shorts/1KM9b60LV1Y)
+[![Rekabet Arşa Çıkacak!](https://ytcards.demolab.com/?id=WpoRWbWLyJU&title=Rekabet+Ar%C5%9Fa+%C3%87%C4%B1kacak%21&lang=en&timestamp=1785250836&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rekabet Arşa Çıkacak!")](https://www.youtube.com/shorts/WpoRWbWLyJU)
+[![Diplomanın Önemi Kaldı Mı?](https://ytcards.demolab.com/?id=ht54W6AFtAI&title=Diploman%C4%B1n+%C3%96nemi+Kald%C4%B1+M%C4%B1%3F&lang=en&timestamp=1785164400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Diplomanın Önemi Kaldı Mı?")](https://www.youtube.com/shorts/ht54W6AFtAI)
+[![Sistem Seni Tüketiyor!](https://ytcards.demolab.com/?id=S0beBuIbMt4&title=Sistem+Seni+T%C3%BCketiyor%21&lang=en&timestamp=1785078026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sistem Seni Tüketiyor!")](https://www.youtube.com/shorts/S0beBuIbMt4)
+[![Senin Ömrün Kaç Kuruş?](https://ytcards.demolab.com/?id=gXQnwizaC-g&title=Senin+%C3%96mr%C3%BCn+Ka%C3%A7+Kuru%C5%9F%3F&lang=en&timestamp=1784991613&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Senin Ömrün Kaç Kuruş?")](https://www.youtube.com/shorts/gXQnwizaC-g)
+[![Memur Olunur mu?](https://ytcards.demolab.com/?id=Ey4azEhD9B4&title=Memur+Olunur+mu%3F&lang=en&timestamp=1784905237&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Memur Olunur mu?")](https://www.youtube.com/shorts/Ey4azEhD9B4)
 <!-- END YOUTUBE-CARDS -->
 
 
