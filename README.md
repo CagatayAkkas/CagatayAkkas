@@ -59,12 +59,7 @@
   <summary><h2>📸 My Latest YouTube Videos</h2></summary>
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![Sen Olmazsan Ne Olur?](https://ytcards.demolab.com/?id=PZEJYFwPxbE&title=Sen+Olmazsan+Ne+Olur%3F&lang=en&timestamp=1785510000&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sen Olmazsan Ne Olur?")](https://www.youtube.com/shorts/PZEJYFwPxbE)
-[![Diploma Şart Mı?](https://ytcards.demolab.com/?id=_kxX0WgcdT8&title=Diploma+%C5%9Eart+M%C4%B1%3F&lang=en&timestamp=1785423614&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Diploma Şart Mı?")](https://www.youtube.com/shorts/_kxX0WgcdT8)
-[![Hayatın Yaşadığına Değsin!](https://ytcards.demolab.com/?id=1KM9b60LV1Y&title=Hayat%C4%B1n+Ya%C5%9Fad%C4%B1%C4%9F%C4%B1na+De%C4%9Fsin%21&lang=en&timestamp=1785337226&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Hayatın Yaşadığına Değsin!")](https://www.youtube.com/shorts/1KM9b60LV1Y)
-[![Rekabet Arşa Çıkacak!](https://ytcards.demolab.com/?id=WpoRWbWLyJU&title=Rekabet+Ar%C5%9Fa+%C3%87%C4%B1kacak%21&lang=en&timestamp=1785250836&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Rekabet Arşa Çıkacak!")](https://www.youtube.com/shorts/WpoRWbWLyJU)
-[![Diplomanın Önemi Kaldı Mı?](https://ytcards.demolab.com/?id=ht54W6AFtAI&title=Diploman%C4%B1n+%C3%96nemi+Kald%C4%B1+M%C4%B1%3F&lang=en&timestamp=1785164400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Diplomanın Önemi Kaldı Mı?")](https://www.youtube.com/shorts/ht54W6AFtAI)
-[![Sistem Seni Tüketiyor!](https://ytcards.demolab.com/?id=S0beBuIbMt4&title=Sistem+Seni+T%C3%BCketiyor%21&lang=en&timestamp=1785078026&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sistem Seni Tüketiyor!")](https://www.youtube.com/shorts/S0beBuIbMt4)
+
 <!-- END YOUTUBE-CARDS -->
 
 
